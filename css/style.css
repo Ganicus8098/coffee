@@ -1724,7 +1724,7 @@ button.form-popup__viewpass._viewpass-active::before {
 }
 @media (max-width:767.98px)and (max-width:20em) {
   .menu__link {
-    font-size: 1.75rem
+    font-size: 2rem
   }
   .signs__btn-sign-in,
   .signs__btn-sign-up {
