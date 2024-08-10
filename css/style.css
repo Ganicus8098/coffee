@@ -553,7 +553,8 @@ button.form-popup__viewpass._viewpass-active::before {
 .coffee {
   position: relative;
   min-height: 100vh;
-  padding-top: 1.25rem
+  padding-top: 1.25rem;
+  padding-bottom: 9.375rem;
 }
 .coffee__main-bg {
   position: absolute;
